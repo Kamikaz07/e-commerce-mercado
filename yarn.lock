@@ -1500,10 +1500,10 @@
     amazon-cognito-identity-js "^6.1.2"
     nodemailer "6.9.8"
 
-"@payloadcms/plugin-nested-docs@^1.0.8":
-  version "1.0.9"
-  resolved "https://registry.yarnpkg.com/@payloadcms/plugin-nested-docs/-/plugin-nested-docs-1.0.9.tgz#c74be3043bfabbfd8da20f0b104f48037e832e47"
-  integrity sha512-XfjKJc9xDCSn+mRpV1cOwkqwiyWaegzerjm9HUuE0xZ/JOhOxVprOmAo/+xK+TSdXkhDunJdy9V/HSGtdcHDvg==
+"@payloadcms/plugin-nested-docs@^1.0.12":
+  version "1.0.12"
+  resolved "https://registry.yarnpkg.com/@payloadcms/plugin-nested-docs/-/plugin-nested-docs-1.0.12.tgz#57723fdd1eec3c26a69f0662ee9b05d2ca0269c7"
+  integrity sha512-CZcfGjN3nUtlAHHlbjgnmiB+lPCw3X7CNN2t2IL5+n94OH98Kwfnu+qhPV/ALm1JAWMY0sQ46kRIwWHij016Nw==
 
 "@payloadcms/plugin-redirects@^1.0.0":
   version "1.0.1"
